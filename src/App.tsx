@@ -15,7 +15,7 @@ function App() {
               <div className="flex items-center gap-2 text-2xl font-bold text-blue-800 hover:text-blue-900 transition-colors duration-200">
                 <Plane className="w-8 h-8 -rotate-45" />
                 <div className="flex flex-col leading-none">
-                  <span className="text-2xl">Malaysia</span>
+                  <span className="text-2xl">Lazada</span>
                   <span className="text-sm text-blue-600">Airlines</span>
                 </div>
               </div>
